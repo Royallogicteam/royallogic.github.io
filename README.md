@@ -7,5 +7,5 @@ This repository hosts my GitHub Pages site.
 - Future projects will be added here.
 
 ## Contact
-Email: your@email.com  
+Email: royallogicteam@gmail.com 
 GitHub: [royallogic](https://github.com/royallogic)
